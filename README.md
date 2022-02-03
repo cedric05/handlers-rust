@@ -1,0 +1,1 @@
+Copied from https://github.com/zupzup/rust-minimal-web-service-hyper/blob/main/LICENSE
